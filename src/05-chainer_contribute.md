@@ -166,7 +166,7 @@ ChainerMNで画像分類を試してみたい時、よかったら使ってみ�
 //noindent
 
 また、プログラム動かない、分からない、どうすればいいの。という時は、ChainerのSlack[^14]に質問してみてはいかがでしょうか。
-[^14]: Slackへの参加はこちらhttps://bit.ly/chainer-jp-slack   
+[^14]: Slackへの参加はこちら https://bit.ly/join-chainer-jp-slack   
 Chaienr関係者や詳しい方々が答えてくれます！(日本語で対応してくれます、しかもレスポンス早め(有難い))    
 Chainerチュートリアルの質問チャンネルもあります。
     
